@@ -1,4 +1,4 @@
-# <code style="color:Gold"> 第一章 </code>
+# $${\color{blue}第一章}$$
 # (1)【搜查】（包含繁体与简体言弹名称）
 
 ## 1. 体育馆内
