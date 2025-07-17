@@ -1,0 +1,161 @@
+Episode 4
+
+Investigation, Part 1
+EVIDENCE > Armband
+TALK TO > Judge Jigoku & Professor Mikotoba
+For Ace of Spades progress, go to Naruhodo's Legal Consultancy and inspect the shovel
+MOVE TO > Lord Chief Justice's Office
+TALK TO > Lord Stronghart
+MOVE TO > Sholmes's Suite
+TALK TO > Herlock Sholmes
+EXAMINE > Kazuma's mask, newspaper
+EVIDENCE > Added > Red-Headed League Article
+PRESENT > Red-Headed League Article
+TALK TO > Herlock Sholmes
+TALK TO > Mrs Evie Vigil
+MOVE TO > Prison Governor's Office
+MOVE TO > Great Waterloo Hotel
+EXAMINE > Talk To > Professor Mikotoba
+EVIDENCE > Added > Letter of Introduction
+MOVE TO > Prison Governor's Office
+PRESENT > Letter of Introduction
+TALK TO > Barry Caidin
+EVIDENCE > Added > Dismissal Notice
+MOVE TO > Sholmes's Suite
+TALK TO > Gina Lestrade
+MOVE TO > Fresno Street Room
+TALK TO > Gina Lestrade
+EXAMINE > fireplace, noticeboard, officers (2), green frame
+EVIDENCE > Added > Framed Photograph
+EXAMINE > right > chalk outline, windows, officer, candles
+EVIDENCE > Added > Candelabrum
+EXAMINE > wig
+EVIDENCE > Added > Red Hairpiece
+EXAMINE > pistol
+EVIDENCE > Added > Revolver
+EXAMINE > policedoll
+EVIDENCE > Added > Policeman Figurine
+MOVE TO > Prison
+TALK TO > Lord van Zieks
+MOVE TO > Lord Chief Justice's Office
+TALK TO > Lord Stronghart
+EXAMINE > Talk to > Kazuma
+EVIDENCE > Added > Gregson's Photograph
+MOVE TO > Prison
+PRESENT > Gregson's Photograph
+EVIDENCE > Updated > Gregson's Photograph
+TALK TO > Lord van Zieks
+
+
+==============================================================================
+Trial, Part 1
+EVIDENCE > Added > Autopsy Report
+EVIDENCE > Added > Crime Scene Floor Plan
+WITNESS > Lord van Zieks
+TESTIMONY > The Facts of the Incident
+PRESS > All Statements
+EVIDENCE > Added > Noticeboard
+EXAMINE > Noticeboard > Handprint on back
+EVIDENCE > Updated > Noticeboard
+EVIDENCE > Added > Venus Firecracker
+EXAMINE > Venus Firecracker > Fuse on bottom
+EVIDENCE > Updated > Venus Firecracker
+WITNESSES > Venus, Gossip, Sandwich
+TESTIMONY > The Witnesses' Account
+PRESS > Statement 1
+EVIDENCE > Added > Photograph of the Victim
+PRESS > Statement 4
+QUESTION > Sandwich
+PRESENT > Noticeboard
+CHOOSE > Option 2, The board moving
+POINT > To the left of the body
+WITNESSES > Venus, Gossip, Sandwich
+TESTIMONY > The Mystery of the Moving Board
+PRESS > Statement 2
+QUESTION > Sandwich
+PRESS > Statement 2
+EVIDENCE > Added > Gregson's Pocket Watch
+EXAMINE > Gregson's Pocket Watch > Keyhole
+EXAMINE > Policeman Figurine > Head
+EVIDENCE > Updated > Policeman Figurine
+EXAMINE > Policeman Figurine > Key
+EVIDENCE > Updated > Gregson's Pocket Watch
+PRESENT > Statement 5 > Gregson's Pocket Watch
+PRESENT > Venus Firecracker
+PRESENT > Candelabrum
+PRESENT > Red-Headed League Article
+
+
+===============================================================================
+Trial, Part 2
+WITNESSES > Fabian de Rousseau, Peppino de Rossi
+TESTIMONY > The Man in the Photograph
+PRESS > Statement 3
+CHOOSE > Option 2, His profession
+QUESTION > Peppino de Rossi
+EVIDENCE > Added > Inspector's Identification
+EXAMINE > Inspector's Identification > open, inside
+EVIDENCE > Updated > Inspector's Identification
+PRESENT > Statement 4 > Inspector's Identification
+WITNESSES > Fabian de Rousseau, Peppino de Rossi
+TESTIMONY > The Detective and the Identification
+PRESS > Statement 4
+QUESTION > Peppino de Rossi
+CHOOSE > Option 1, It's important
+PRESENT > Photograph of the Victim
+CHOOSE > Option 2, An imposter
+PRESENT > Gossip
+WITNESSES > Fabian de Rousseau, Gossip, Peppino de Rossi
+TESTIMONY > The Inspector and the Identification Revisited
+PRESS > Statement 3
+QUESTION > Fabian de Rosseau
+PRESENT > Statement 4 > Framed Photograph
+PRESENT > Daley Vigil
+CHOOSE > Option 1, Do it
+PRESENT > Dismissal Notice
+
+
+===============================================================================
+Investigation, Part 2
+TALK TO > Iris Wilson
+MOVE TO > Lord Chief Justice's Office
+TALK TO > Lord Stronghart
+MOVE TO > Prison
+TALK TO > Lord van Zieks
+MOVE TO > Great Waterloo Hotel
+TALK TO > Professor Mikotoba
+EVIDENCE > Added > Commemorative Photograph
+MOVE TO > Mr Vigil's Hospital Bed
+TALK TO > Daly Vigil
+MOVE TO > Prison Governor's Office
+TALK TO > Barry Caidin
+EVIDENCE > Added > The Asogi Papers
+MOVE TO > Prosecutor's Office
+TALK TO > Kazuma
+PRESENT > Autopsy Report
+MOVE TO > Forensics Laboratory
+TALK TO > Maria Gorey
+PRESENT > Autopsy Report
+TALK TO > Maria Gorey
+MOVE TO > Fresno Street Room
+EXAMINE > Trunk
+TALK TO > Gina Lestrade
+PRESENT > Red Hairpiece
+EVIDENCE > Added > Gregson's Trunk
+MOVED TO > Naruhodo's Legal Consultancy
+For an achievement, go back to the Fresno Street Room & talk to Gina after you wake up
+TALK TO > Susato
+EXAMINE > Talk to > Herlock Sholmes
+EXAMINE > tea kit, calligraphy desk, kettle
+MOVE TO > Sholmes's Suite
+REASONING > 1 > Source of singing? > gramophone
+REASONING > 1 > Who was wearing mask? > Kazuma
+REASONING > 2 > What Iris looking at? > metal chest
+REASONING > 2 > Why couldn't Iris open mouth? > key
+REASONING > 2 > What secret is Iris hiding? > case file
+TALK TO > Iris Wilson
+TALK TO > Herlock Sholmes
+EVIDENCE > Added > Klint's Autopsy Report
+
+
+
