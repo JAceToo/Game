@@ -79,25 +79,24 @@
 * （1）已发送行政部：我还是建议把她的丈夫还给他
 * （2）已发送行政部：违规使用实验器材，伤害实验志愿者
 
-## 推理 1
+## 【调查Lucrezia死前联系人】推理：
 
-17. 点击【调查Lucrezia死前联系人】推理：
-* （1）Lucrezia Borgia博士的死因是什么？
+（1）Lucrezia Borgia博士的死因是什么？
 * `【C3盘山公路车祸坠崖而亡】`
 
-* （2）Lucrezia连夜带Benjamin驾车离开实验室，是因为收到谁的消息？
+（2）Lucrezia连夜带Benjamin驾车离开实验室，是因为收到谁的消息？
 * `【Vincent：那里马上要爆炸了】`
 
-* （3）Tom Blanco社交记录中的哪些信息与Lucrezia的死亡有关？
+（3）Tom Blanco社交记录中的哪些信息与Lucrezia的死亡有关？
 * `【在Hitalk上声称要让Lucrezia付出生命的代价】`
 * `【在Toothbook中声称是Benjamin谋杀了Lucrezia】`
 * `【从Hitalk中得知Vincent和Simon为Lucrezia的死亡推波助澜】`
 
-* （4）Lucrezia在死前怀疑丈夫Simon并没有真的死亡，是因为？
+ （4）Lucrezia在死前怀疑丈夫Simon并没有真的死亡，是因为？
 * `【Simon的尸体并没有被找到】`
 * `【费洛丁雪山的工作人员几乎全部更换且员工档案遗失】`
 
-* （5）Simon在消失之前的异常举动
+（5）Simon在消失之前的异常举动
 * `【找私家侦探调查Lucrezia】`
 * `【打听Lucrezia的出差行程】`
 * `【打算与Lucrezia离婚】`
@@ -169,25 +168,24 @@
 * （8）Hannah：泰坦大瓜
 * （9）Hannah：陪我看病的姑娘，我很喜欢
 
-## 推理 2
+## 【Lucrezia的家庭关系】推理：
 
-31. 点击【Lucrezia的家庭关系】推理：
-* （1）Lucrezia是如何与Simon相爱的？
+（1）Lucrezia是如何与Simon相爱的？
 * `【初次出差途中偶遇】`
 * `【二人正式相识】`
 * `【Lucrezia与Kevin分手】`
 * `【二人相信“命中注定”】`
 * `【结婚】`
 
-* （2）Simon“死亡”之前Lucrezia曾做过什么重要决定？
+（2）Simon“死亡”之前Lucrezia曾做过什么重要决定？
 * `【想辞职做全职主妇，上报泰坦后得到了批准】`
 
-* （3）以下对Simon描述错误的是？
+（3）以下对Simon描述错误的是？
 * `【故意接近Lucrezia，并与之结婚】`
 * `【Simon以另一个新身份活着都是为了得到更多的钱】`
 * `【Simon与儿子其实已经在费洛丁雪山事故中丧生】`
 
-* （4）在泰坦体系中，与Simon作用相同的人还有谁？
+（4）在泰坦体系中，与Simon作用相同的人还有谁？
 * `【Vincent】`
 * `【Sandra】`
 * `【Shirley】`
