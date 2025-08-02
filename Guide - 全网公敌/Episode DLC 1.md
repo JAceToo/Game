@@ -171,30 +171,30 @@
 ## 推理
 
 44. 点击【妻女失踪背后的真相】推理
-* （1）Lee妻子的真实身份是？
+（1）Lee妻子的真实身份是？
 * `【Lisa Snyder】`
 * `【1988.11.18】`
 * `【通缉犯】`
 * `【第三张照片】`
 
-* （2）尝试推测Lisa是如何谋划，获得Theresa Meadows这个新身份的？
+（2）尝试推测Lisa是如何谋划，获得Theresa Meadows这个新身份的？
 * `【在青年旅舍搭讪失恋的Theresa】`
 * `【开导劝说Theresa使她心情变好】`
 * `【教Theresa化妆，让她变美】`
 * `【杀死Theresa，并拿走财物】`
 * `【把Theresa尸体装进行李箱带出旅馆】`
 
-* （3）请选出对应标签贴在几人之间的关系线上：
+（3）请选出对应标签贴在几人之间的关系线上：
 * `Lisa←【替代】→Theresa`
 * `Lisa←【爱情】→Herbert`
 * `Claudia←【严格】←Herbert←【欺骗】←Anthony`
 * `Claudia←【利用】→Anthony`
 * `Claudia→【厌恶】→Lisa←【恐吓】←Anthony`
 
-* （4）引发Lisa与Claudia失踪的始作俑者是？
+（4）引发Lisa与Claudia失踪的始作俑者是？
 * `【Claudia拜托了Anthony让Lisa消失，使得自己没能回家，Lisa也不知去向】`
 
-* （5）目前哪些人此时正在一起？
+（5）目前哪些人此时正在一起？
 * `【Anthony】【Lisa】【Claudia】`
 
 45. 推理完，点击提交信息，输入【BY9527】【Aogesi Will】后确认（一次性输入正确成就）
