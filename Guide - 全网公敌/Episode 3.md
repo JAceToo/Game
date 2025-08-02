@@ -117,7 +117,7 @@
 
 30. 提交到一半乱码，Van出现，三个问题随便回答，排列内存组图：
 
-![Model Diagram](E3_fig1.png)
+![Diagram](https://github.com/JAceToo/Game/blob/main/Guide%20-%20%E5%85%A8%E7%BD%91%E5%85%AC%E6%95%8C/E3_fig1.png)
 
 `成就：`
 
