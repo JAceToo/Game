@@ -63,6 +63,7 @@
 * （11）妈妈：看看你在外面做的蠢事！追债的人都找上门了
 
 ## 第一次推理
+
 ![Fig.1](Figure/E2_Fig1.jpg)
 ![Fig.2](Figure/E2_Fig2.jpg)
 
@@ -155,6 +156,7 @@
 * （15）亨利：你这边等几天，金贷贷的企业信息就是合法合规的网贷平台了
 
 ## 第二次推理
+
 ![Fig.3](Figure/E2_Fig3.jpg)
 ![Fig.4](Figure/E2_Fig4.jpg)
 ![Fig.5](Figure/E2_Fig5.jpg)
@@ -169,6 +171,7 @@
 33. 入侵后，邮件语音收集【又是那个女记者，别和老子废话了，还不赶紧去追】
 
 34. 完成追踪小游戏（150内完成追踪有成就）
+
 ![Fig.6](Figure/E2_Fig6.jpg)
 ![Fig.7](Figure/E2_Fig7.jpg)
 ![Fig.8](Figure/E2_Fig8.jpg)

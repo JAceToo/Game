@@ -49,6 +49,7 @@
 * （2）❤❤❤爱你
 
 ## 第一次推理
+
 ![Fig.1](Figure/E1_Fig1.jpg)
 ![Fig.2](Figure/E1_Fig2.jpg)
 
@@ -102,6 +103,7 @@
 * （12）桑迪：电话里说吧，这里不大方便
 
 ## 第二次推理
+
 ![Fig.3](Figure/E1_Fig3.jpg)
 ![Fig.4](Figure/E1_Fig4.jpg)
 ![Fig.5](Figure/E1_Fig5.jpg)

@@ -88,6 +88,7 @@
 * （4）EOS公司：请相信以我们对于科技领域的决心和诚意，会开出让您满意的价码
 
 ## 第一次推理
+
 ![Fig.1](Figure/E3_Fig1.jpg)
 ![Fig.2](Figure/E3_Fig2.jpg)
 
@@ -177,11 +178,13 @@
 * （4）玛丽亚：贾马尔退学这件事，你能不能劝劝他
 
 ## 第二次推理
+
 ![Fig.3](Figure/E3_Fig3.jpg)
 ![Fig.4](Figure/E3_Fig4.jpg)
 ![Fig.5](Figure/E3_Fig5.jpg)
 
 44. 点击人工智能审核平台，完成审判小游戏（成就）
+
 ![Fig.6](Figure/E3_Fig6.jpg)
 
 45. 输入彩蛋指令【↑↑↓↓←→←→BA】，根据密码提示【803】，进去后看贾马尔留下的视频（成就）
@@ -189,6 +192,7 @@
 46. 退出直播间后，点击【提交】
 
 47. 排好入侵顺序
+
 ![Fig.7](Figure/E3_Fig7.jpg)
 
 48. 根据泰坦集团的阴谋.doc得知永生密码是【narrowgateleadethuntolife】
