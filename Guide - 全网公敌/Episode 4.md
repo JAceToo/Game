@@ -161,7 +161,7 @@ Barbie Saya【迅速成为国民偶像】、【让竞争对手滚出娱乐圈】
 
 41. 进入泰坦后台，点击声纹信息，完成【Ashley Clayson】的声纹生成
 
-![Fig.1](Z_E4_fig1.png)
+![Fig.1](Figure/E4_Fig1.jpg)
 
 42. 点击开发者后台，声纹信息选择【Ashley Clayson】，通过声纹验证后，查看文档，文档2的密码【Tom Blanco】和文档3的密码【Lucrezia Borgia】，文档4的密码是【玩家名字】，从文档1开始看到最后文档4听到电话声，Ashley Clayson会出来阻止
 
